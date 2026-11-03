@@ -1,2 +1,6 @@
 "hello" 
+HEAD
 "main branch edit" 
+"feature branch edit" 
+"feature branch conflicting edit" 
+ feature-branch
